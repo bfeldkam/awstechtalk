@@ -1,1 +1,1 @@
-# awstechtalk
+# Amazon Web Services java-sdk examples
