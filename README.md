@@ -3,7 +3,12 @@ This project utilizes the AWS java SDK to make requests and handle events.
 
 ## Pre-Reqs
 1. Git tools installed (2.8.4 as of June 8, 2016)
+
+   https://git-scm.com/downloads
+
 2. Maven build tools installed (3.3.9 as of June 8, 2016)
+
+   https://maven.apache.org/download.cgi
 
 ## Getting Started
 1. Clone the repo
