@@ -8,8 +8,8 @@ This project utilizes the AWS java SDK to make requests and handle events.
 
 2. Navigate to the root of the project
 
-   `cd awstechtalk/sns-lambda-processor`
+   `cd awstechtalk`
    
-3. Execute a maven install
+3. Execute a maven install (this will build and install the parent and children projects)
 
-   `mvn clean install`
+   `mvn install`
