@@ -22,3 +22,6 @@ This project utilizes the AWS java SDK to make requests and handle events.
 3. Execute a maven install (this will build and install the parent and children projects)
 
    `mvn install`
+   
+   
+   **_Now upload to AWS and enjoy!_**
