@@ -28,10 +28,10 @@ public class AWSLambdaRequestHandler{
 	/**
 	 * log bucket details
 	 * @param s3BucketEntity
+	 * @return the name of the object
 	 */
 	private void logDetails(S3Entity s3Entity){
 		String bucketDetails = String.format("There is a new object (%s) in '%s' bucket.", s3Entity.getObject().getKey(), s3Entity.getBucket().getName());
-		
 		logger.log(bucketDetails);
 	}
 }
